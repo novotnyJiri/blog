@@ -7,7 +7,7 @@ post_excerpt: This is a post excerpt
 featured_image: _images/tealc.jpg
 author: developer
 taxonomy:
-    tag:
+    post_tag:
         - test_tag
 
 ---
