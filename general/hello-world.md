@@ -5,6 +5,10 @@ menu_order: 1
 post_status: publish
 post_excerpt: This is a post excerpt
 featured_image: _images/tealc.jpg
+author: developer
+taxonomy:
+    tag:
+        - test_tag
 
 ---
 
